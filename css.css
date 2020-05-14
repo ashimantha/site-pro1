@@ -1,4 +1,39 @@
 .img-res {
-    width: 100%;
-  }
-  
+  width: 100%;
+}
+
+/* colors */
+.primary-darklight {
+  background-color: #3a434b;
+  color: #fff;
+}
+.primary-dark {
+  background-color: #313940;
+  color: #fff;
+}
+.accent-colour {
+  background-color: #eea124;
+  color: #fff;
+}
+
+.accent-colour-i {
+  color: #eea124;
+}
+.primary-light {
+  background-color: #465059;
+  color: #6b7a82;
+}
+.body-darklight{
+    background-color: #0E202E;
+}
+
+/* nav bars */
+.navbar-text-1 {
+  font-size: 14px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.rounded-button{
+border-radius: 20px;
+}
