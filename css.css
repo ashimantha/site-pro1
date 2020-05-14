@@ -3,6 +3,9 @@
 }
 
 /* colors */
+hr {
+    background-color: #fff;
+}
 .primary-darklight {
   background-color: #3a434b;
   color: #fff;
